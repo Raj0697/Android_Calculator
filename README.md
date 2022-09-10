@@ -1,0 +1,3 @@
+# Android_Calculator
+This repo consists of android application developed using java and xml in android studio / eclipse IDE.
+This is the basic and advanced calculator app which can be used in our day-to-day life...
